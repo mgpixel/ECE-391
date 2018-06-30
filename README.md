@@ -13,3 +13,7 @@ Added a section, may end up changing stuff about it later though. Formatting cha
 # v0.3
 
 Lots of additions to review sections (still need to finish stack section), added some more stuff to lecture 2, more details early on for system calls, lecture 8 stuff updated more. Other changes here and there.
+
+# v0.31
+
+Currently working on Lecture 9 (PIC), thinking of combining it with Lecture 10 similar to early on in the notes.

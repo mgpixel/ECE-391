@@ -5,3 +5,7 @@ This directory will hold lecture notes for my school's operating systems class, 
 ## v0.5
 
 Now on Discussion week 7/lecture 13, another minor update but some progress again.
+
+## v0.51
+
+Lecture 13 being updated, discussion updated later.

@@ -6,6 +6,6 @@ This directory will hold lecture notes for my school's operating systems class, 
 
 Now on Discussion week 7/lecture 13, another minor update but some progress again.
 
-## v0.51
+## v0.52
 
-Lecture 13 being updated, discussion updated later.
+Lecture 13 updated, still have to do discussion but might skip to just lecture 14.
